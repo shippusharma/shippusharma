@@ -6,7 +6,7 @@ Hello, my name is Shippu Sharma. I'm a FullStack Software Engineer.<br><br>🔸 
 
 ## 🌐 Socials Network:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shippu-sharma-4a50b91a2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_i_b_u__s_h_a_r_m_a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shippu-sharma-4a50b91a2) [![Github](https://img.shields.io/badge/Github-%23404d59.svg?logo=github&logoColor=#D04A37)](https://github.com/shippusharma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_i_b_u__s_h_a_r_m_a)
 
 <br>
 
