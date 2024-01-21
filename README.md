@@ -1,10 +1,10 @@
-# 💫 About Me:
+# 👨🏽‍💻 About Me:
 
 Hello, my name is Shippu Sharma. I'm a FullStack Software Engineer.<br><br>🔸 I have over 3+ years of experience in Full-Stack Software Engineering and IT fields, where I have successfully completed several projects. As a self-taught programmer, I am deeply passionate about coding and continuously strive to learn and experiment with new technologies.<br><br>🔸 My problem-solving approach is both creative and effective, and I thrive on tackling challenging tasks. With strong organizational skills and impressive educational background, I am committed to contributing to an organization's goals by leveraging my technical and non-technical skills.<br><br>🔸 I take pride in writing clean and maintainable code, adhering to industry best practices. My focus is on building robust, scalable, efficient, and optimized products, APIs, and web applications that meet the highest standards. And commitment to delivering high-quality code.
 
 <br>
 
-## 🌐 Socials Network:
+## 🌐 Let's Connect on Socials Network:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shippu-sharma-4a50b91a2) [![Github](https://img.shields.io/badge/Github-%23404d59.svg?logo=github&logoColor=#D04A37)](https://github.com/shippusharma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_i_b_u__s_h_a_r_m_a)
 
