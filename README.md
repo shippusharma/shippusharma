@@ -48,7 +48,7 @@ Hello, my name is Shippu Sharma. I'm a FullStack Software Engineer.<br><br>🔸 
 
 ## 👉 LinkedIn Profile Badge
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
 <!-- LinkedIn Profile Badge -->
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shippu-sharma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shippu-sharma?trk=profile-badge">Shippu Sharma</a></div>
 
