@@ -6,7 +6,7 @@ Hello, my name is Shippu Sharma. I'm a FullStack Software Engineer.<br><br>🔸 
 
 ## 🌐 Let's Connect on Socials Network:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shippu-sharma-4a50b91a2) [![Github](https://img.shields.io/badge/Github-%23404d59.svg?logo=github&logoColor=#D04A37)](https://github.com/shippusharma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_i_b_u__s_h_a_r_m_a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shippu-sharma) [![Github](https://img.shields.io/badge/Github-%23404d59.svg?logo=github&logoColor=#D04A37)](https://github.com/shippusharma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_i_b_u__s_h_a_r_m_a)
 
 <br>
 
@@ -45,6 +45,12 @@ Hello, my name is Shippu Sharma. I'm a FullStack Software Engineer.<br><br>🔸 
 <a href="https://app.daily.dev/shippusharma"><img src="https://api.daily.dev/devcards/3933087cdfa34e3cb6e14da2e9f4412f.png?r=491" width="400" alt="Shippu Sharma's Dev Card"/></a>
 
 <br>
+
+## 👉 LinkedIn Profile
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shippu-sharma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shippu-sharma?trk=profile-badge">Shippu Sharma</a></div>
+
+<br>              
 
 ## ✍️ Random Dev Quote
 
