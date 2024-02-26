@@ -40,14 +40,16 @@ Hello, my name is Shippu Sharma. I'm a FullStack Software Engineer.<br><br>🔸 
 
 [![](https://visitcount.itsvg.in/api?id=shippusharma&icon=3&color=11)](https://visitcount.itsvg.in)
 
-## 💻 Daily Dev Articles
+## 💻 Daily Dev Article Badge
 
 <a href="https://app.daily.dev/shippusharma"><img src="https://api.daily.dev/devcards/3933087cdfa34e3cb6e14da2e9f4412f.png?r=491" width="400" alt="Shippu Sharma's Dev Card"/></a>
 
 <br>
 
-## 👉 LinkedIn Profile
+## 👉 LinkedIn Profile Badge
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<!-- LinkedIn Profile Badge -->
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shippu-sharma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shippu-sharma?trk=profile-badge">Shippu Sharma</a></div>
 
 <br>              
