@@ -42,7 +42,7 @@ Hello, my name is Shippu Sharma. I'm a FullStack Software Engineer.<br><br>🔸 
 
 ## 💻 Daily Dev Article Badge
 
-<a href="https://app.daily.dev/shippusharma"><img src="https://api.daily.dev/devcards/3933087cdfa34e3cb6e14da2e9f4412f.png?r=491" width="400" alt="Shippu Sharma's Dev Card"/></a>
+<a href="https://app.daily.dev/shippusharma"><img src="https://api.daily.dev/devcards/v2/ilWoEGGv5ZjyIiKzXhhbT.png?type=default&r=296" width="356" alt="Shippu Sharma's Dev Card"/></a>
 
 <br>
 
