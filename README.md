@@ -1,59 +1,179 @@
-# 👨🏽‍💻 About Me:
+<h1 align="center">Hi, I'm Shippu Sharma 👋</h1>
 
-Hello, my name is Shippu Sharma. I'm a Senior Software Engineer.<br><br>🔸 I have over 4+ years of experience in Full-Stack Software Engineering and IT fields, where I have successfully completed several projects. As a self-taught programmer, I am deeply passionate about coding and continuously strive to learn and experiment with new technologies.<br><br>🔸 My problem-solving approach is both creative and effective, and I thrive on tackling challenging tasks. With strong organizational skills and impressive educational background, I am committed to contributing to an organization's goals by leveraging my technical and non-technical skills.<br><br>🔸 I take pride in writing clean and maintainable code, adhering to industry best practices. My focus is on building robust, scalable, efficient, and optimized products, APIs, and web applications that meet the highest standards. And commitment to delivering high-quality code.
+<p align="center">
+  Senior Software Engineer at Gloitel, working on AI features for real products:<br/>
+  agents that call tools, RAG search and chat UIs, plus the backends they run on.
+</p>
 
-<br>
+<p align="center">
+  <a href="https://shippusharma.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-shippusharma.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shippu-sharma"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-30.2k%2B_followers-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg=="/></a>
+  <a href="https://app.daily.dev/shippusharma"><img alt="daily.dev" src="https://img.shields.io/badge/daily.dev-Top_1%25_reader-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white"/></a>
+  <a href="mailto:shippusharma00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shippusharma00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-## 🌐 Let's Connect on Socials Network:
+<p align="center">
+  <a href="https://twitter.com/shippu_sharma"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/shippu__sharma"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.npmjs.com/~shippu-sharma"><img alt="npm" src="https://img.shields.io/badge/npm-shippu--sharma-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shippu-sharma) [![Github](https://img.shields.io/badge/Github-%23404d59.svg?logo=github&logoColor=#D04A37)](https://github.com/shippusharma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_i_b_u__s_h_a_r_m_a)
+<p align="center">🟢 Open to new roles and freelance work · Based in India (IST, UTC+5:30), happy to work remotely</p>
 
-<br>
+---
 
-# 💻 Tech Stack:
+### About me
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+I've been writing software professionally for 5.5+ years. I started at Catax in 2021, moved to Webllisto, and joined Gloitel in 2023, where I was promoted to Senior Software Engineer in 2024.
 
-<br>
+These days most of my work is AI: agent workflows with LangChain, LangGraph and DeepAgent, RAG over LLM and SLM APIs, generative UI with CopilotKit and the Vercel AI SDK, and MCP and A2A to connect agents to tools and to each other. I also own the system architecture, serverless infrastructure on AWS, Cloudflare and Oracle Cloud, and the Expo mobile app.
 
-# 📊 GitHub Stats:
+I'm self-taught, and I still read a lot. On daily.dev that came to 2,649 posts in 2025, a 596-day streak and a top 1% badge. I ship small PRs, test the logic that matters, and run every service in Docker from day one.
 
-![](https://github-readme-stats.vercel.app/api?username=shippusharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shippusharma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shippusharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+My [portfolio](https://shippusharma.vercel.app) has an AI copilot, Sibu, that answers questions about my work. It looks the facts up with tool calls and links each answer to the page it came from, so ask it anything.
 
-<br>
+**Right now**
 
-## 🏆 GitHub Trophies
+- Building AI features at Gloitel: agent workflows, RAG and generative UI.
+- Shipping [Agent Skills](https://github.com/shippusharma/skills), an open-source set of reusable skills for AI coding agents.
+- Exploring MCP Apps and the A2A protocol.
 
-![](https://github-profile-trophy.vercel.app/?username=shippusharma&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+---
 
-<br>
+### Skills
 
-## 🔝 Top Contributed Repo
+|                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **AI & agents**       | <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/> <img alt="DeepAgent" src="https://img.shields.io/badge/DeepAgent-1C3C3C?style=flat-square"/> <img alt="Vercel AI SDK" src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white"/> <img alt="CopilotKit" src="https://img.shields.io/badge/CopilotKit-6963FF?style=flat-square"/> <img alt="MCP" src="https://img.shields.io/badge/MCP_%26_MCP_Apps-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white"/> <img alt="A2A" src="https://img.shields.io/badge/A2A_Protocol-4285F4?style=flat-square"/> <img alt="RAG" src="https://img.shields.io/badge/RAG-0F766E?style=flat-square"/> <img alt="LLM and SLM APIs" src="https://img.shields.io/badge/LLM_%2F_SLM_APIs-412991?style=flat-square"/> <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img alt="Agent Skills" src="https://img.shields.io/badge/Agent_Skills-D97757?style=flat-square&logo=claude&logoColor=white"/> <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> |
+| **Languages**         | <img alt="TypeScript, JavaScript, HTML, CSS, Bash" src="https://skillicons.dev/icons?i=ts,js,html,css,bash"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Frontend & mobile** | <img alt="React, Next.js, Vite, Tailwind, Redux, MUI, Sass" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,mui,sass"/><br/><img alt="TanStack Start" src="https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logo=tanstack&logoColor=white"/> <img alt="React Query" src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/> <img alt="Zustand" src="https://img.shields.io/badge/Zustand-443E38?style=flat-square"/> <img alt="React Native and Expo" src="https://img.shields.io/badge/React_Native_%2F_Expo-1C1E24?style=flat-square&logo=expo&logoColor=white"/> <img alt="PWA" src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square"/> <img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Backend**           | <img alt="Node.js, Bun, Express, NestJS, GraphQL, Apollo" src="https://skillicons.dev/icons?i=nodejs,bun,express,nestjs,graphql,apollo"/><br/><img alt="Hono" src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white"/> <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img alt="Webhooks" src="https://img.shields.io/badge/Webhooks-475569?style=flat-square"/> <img alt="Swagger / OpenAPI" src="https://img.shields.io/badge/Swagger_%2F_OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Data & search**     | <img alt="PostgreSQL, MongoDB, MySQL, SQLite, Redis, Elasticsearch" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,elasticsearch"/><br/><img alt="Drizzle ORM" src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black"/> <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/> <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/> <img alt="Valkey" src="https://img.shields.io/badge/Valkey-6983FF?style=flat-square"/> <img alt="PGVector" src="https://img.shields.io/badge/PGVector-336791?style=flat-square"/> <img alt="Chroma" src="https://img.shields.io/badge/Chroma-FF6446?style=flat-square"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Cloud & DevOps**    | <img alt="AWS, Cloudflare, Docker, GitHub Actions, Nginx, Linux, Vercel, Netlify" src="https://skillicons.dev/icons?i=aws,cloudflare,docker,githubactions,nginx,linux,vercel,netlify"/><br/><img alt="AWS services" src="https://img.shields.io/badge/AWS-EC2_%C2%B7_S3_%C2%B7_Lambda_%C2%B7_SQS_%C2%B7_SNS_%C2%B7_SES_%C2%B7_ECS-232F3E?style=flat-square"/> <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square"/> <img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white"/> <img alt="Traefik" src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square"/> <img alt="Caddy" src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white"/> <img alt="MinIO" src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Queues & tooling**  | <img alt="Kafka, RabbitMQ, Git, GitHub, Postman, Jest, Vitest, Firebase, Supabase, Notion" src="https://skillicons.dev/icons?i=kafka,rabbitmq,git,github,postman,jest,vitest,firebase,supabase,notion"/><br/><img alt="BullMQ" src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square"/> <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/> <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Payments**          | <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img alt="Razorpay" src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/> <img alt="Cashfree" src="https://img.shields.io/badge/Cashfree-6933D3?style=flat-square"/> <img alt="CCAvenue" src="https://img.shields.io/badge/CCAvenue-1E4D8C?style=flat-square"/> <img alt="ICICI Eazypay" src="https://img.shields.io/badge/ICICI_Eazypay-AE282E?style=flat-square"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Architecture**      | Monoliths and modular monoliths, microservices, micro-frontends, event-driven and serverless systems, clean and plugin architectures, system design                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-![](https://github-contributor-stats.vercel.app/api?username=shippusharma&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+---
 
-<br>
+### Featured work
 
-## 👀 Prowfile Views Count
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/shippusharma/text-to-sql-agent">Queryroom: Text-to-SQL Agent</a></h4>
+      Ask a PostgreSQL, MySQL or SQLite database questions in plain English. An LLM drafts a read-only query, and nothing runs until you've reviewed and approved it. Connection details stay encrypted in the browser.<br/><br/>
+      <code>Next.js</code> <code>LangChain</code> <code>OpenAI</code> <code>PostgreSQL</code> <code>Zod</code><br/><br/>
+      <a href="https://agent-text-to-sql.vercel.app/">Live demo</a> · <a href="https://github.com/shippusharma/text-to-sql-agent">Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/shippusharma/skills">Agent Skills</a></h4>
+      Reusable skills for AI coding agents like Claude Code and Codex, including an MVP builder and a project blueprint generator. Each one installs with a single command.<br/><br/>
+      <code>npx skills add shippusharma/skills</code><br/><br/>
+      <a href="https://www.skills.sh/shippusharma/skills/project-blueprint-builder">skills.sh</a> · <a href="https://github.com/shippusharma/skills">Source</a> · <img alt="GitHub stars" src="https://img.shields.io/github/stars/shippusharma/skills?style=flat-square&label=stars"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://saletous.com/">Vendor Shop</a></h4>
+      A multi-vendor e-commerce platform. Sellers run their own storefronts with listings, inventory, orders and customer messaging. It's live at saletous.com.<br/><br/>
+      <code>Next.js</code> <code>PostgreSQL</code> <code>Drizzle ORM</code> <code>AWS</code> <code>PWA</code><br/><br/>
+      <a href="https://saletous.com/">Live site</a> · <i>private repo</i>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://shippusharma.vercel.app">My portfolio</a></h4>
+      Built with Next.js 16, React 19 and the React Compiler. It has the tool-calling copilot (with an offline fallback), works as an installable PWA, pulls live GitHub and npm stats, and has a strict CSP, rate limits and a Bun test suite.<br/><br/>
+      <code>Next.js</code> <code>Vercel AI SDK</code> <code>TypeScript</code> <code>Tailwind</code> <code>Bun</code><br/><br/>
+      <a href="https://shippusharma.vercel.app">Visit</a> · <i>private repo</i>
+    </td>
+  </tr>
+</table>
 
-[![](https://visitcount.itsvg.in/api?id=shippusharma&icon=3&color=11)](https://visitcount.itsvg.in)
+**On npm**
 
-## 💻 Daily Dev Article Badge
+| Package                                                      | What it does                                                                                 | Downloads                                                                                                                        |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [`regexx`](https://www.npmjs.com/package/regexx)             | Type-safe regex patterns for email, URL and password-strength checks, with zero dependencies | <img alt="regexx monthly downloads" src="https://img.shields.io/npm/dm/regexx?style=flat-square&label=per%20month"/>             |
+| [`timezone-lib`](https://www.npmjs.com/package/timezone-lib) | Timezone-aware date and time formatting for any IANA zone, fully typed, zero dependencies    | <img alt="timezone-lib monthly downloads" src="https://img.shields.io/npm/dm/timezone-lib?style=flat-square&label=per%20month"/> |
 
-<a href="https://app.daily.dev/shippusharma"><img src="https://api.daily.dev/devcards/v2/ilWoEGGv5ZjyIiKzXhhbT.png?type=default&r=296" width="356" alt="Shippu Sharma's Dev Card"/></a>
+<p align="right"><a href="https://shippusharma.vercel.app/projects">All projects →</a></p>
 
-<br>
+---
 
-## 👉 LinkedIn Profile Badge
+### Experience
 
-<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
-<!-- LinkedIn Profile Badge -->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shippu-sharma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shippu-sharma?trk=profile-badge">Shippu Sharma</a></div>
+| Role                                                                 | Company                | Years       |
+| -------------------------------------------------------------------- | ---------------------- | ----------- |
+| **Senior Software Engineer**, AI features, architecture and cloud    | Gloitel Consulting     | 2024 – now  |
+| Software Engineer, Node.js, Bun, Hono, Apollo GraphQL, React, Expo   | Gloitel Consulting     | 2023 – 2024 |
+| Software Developer, Web3 dApps, PWAs, Node.js, PostgreSQL, Redis     | Webllisto Technologies | 2022 – 2023 |
+| Full-Stack Developer, REST and GraphQL APIs, React, Next.js, MongoDB | Catax                  | 2021 – 2022 |
 
-<br>              
+B.Tech in Computer Science & Engineering from CSVTU Bhilai, First Division.
 
-## ✍️ Random Dev Quote
+**Certifications**
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- LangChain Academy: Deep Agents (Foundation and Project), LangGraph Essentials, LangChain Essentials, LangSmith Essentials and LangSmith Agent Builder.
+- Gloitel recognised my three years as Senior Software Engineer in 2026.
+- daily.dev: 2025 Streak Warrior (top 1%) and monthly Top Reader badges in Node.js, TypeScript and more.
+- I keep all 88 certificates and badges, with the original documents, on [my certificates page](https://shippusharma.vercel.app/certificates).
+
+### What colleagues say
+
+> "Deep technical expertise, innovative thinking, and strong problem-solving skills… His ability to lead by example and collaborate across teams made a significant impact on our work."
+>
+> Anmol Rahangdale, Frontend Developer at Gloitel
+
+> "Their ability to mentor a team with excellent command and coordination makes them an invaluable asset to any organization."
+>
+> Prateek Lodhi, Software Engineer at CodeNicely
+
+> "Highly skilled in the MERN stack… the way he solved the problem makes him different from other developers."
+>
+> Jitesh Choudhary, SDE-3 at Systango
+
+<p align="right"><a href="https://shippusharma.vercel.app/testimonials">All recommendations →</a></p>
+
+---
+
+### GitHub activity
+
+<a href="https://github.com/shippusharma">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shippusharma.vercel.app/github-heatmap/dark"/>
+    <img alt="My GitHub contributions over the last year" src="https://shippusharma.vercel.app/github-heatmap/light"/>
+  </picture>
+</a>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=shippusharma&theme=dark&hide_border=true&background=0D1117"/>
+    <img alt="My GitHub contribution streak" src="https://streak-stats.demolab.com/?user=shippusharma&hide_border=true"/>
+  </picture>
+</p>
+
+<sub>My portfolio draws this calendar from live GitHub data and refreshes it every 6 hours.</sub>
+
+### Reading
+
+<a href="https://app.daily.dev/shippusharma"><img src="https://shippusharma.vercel.app/dailydev-card" width="300" alt="My daily.dev dev card"/></a>
+
+### Writing
+
+<!-- BLOG-POST-LIST:START -->
+
+- [How Sibu, the AI Copilot on This Portfolio, Actually Works](https://shippusharma.vercel.app/blog/how-sibu-ai-copilot-works)
+- [Hardening a Next.js Portfolio: Rate Limits, CSP and Honeypots](https://shippusharma.vercel.app/blog/hardening-a-nextjs-portfolio)
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<p align="center">
+  If you're hiring or have something to build, email me at <a href="mailto:shippusharma00@gmail.com">shippusharma00@gmail.com</a> or use the <a href="https://shippusharma.vercel.app/#contact">contact form</a>. I reply within 24 hours.<br/>
+  For freelance work, see <a href="https://shippusharma.vercel.app/freelancing">what I offer</a>.
+</p>
+
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=shippusharma&style=flat-square&color=7c3aed&label=Profile+views"/>
+</p>
